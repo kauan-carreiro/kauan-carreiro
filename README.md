@@ -10,11 +10,14 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/kauan-carreiro">
     <img src="https://img.shields.io/badge/GitHub-kauancarreiro-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM">
+  <a href="https://www.instagram.com/not.azark/">
     <img src="https://img.shields.io/badge/Instagram-not.azark-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/kauan-henrique-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kauan henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -40,8 +43,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauan-henrique&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-henrique&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauan-carreiro&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-carreiro&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -60,5 +63,7 @@
 
 ---
 
+⭐ Em constante evolução
+🤝 Aberto a aprender, colaborar e criar projetos incríveis
 ⭐ Em constante evolução
 🤝 Aberto a aprender, colaborar e criar projetos incríveis
