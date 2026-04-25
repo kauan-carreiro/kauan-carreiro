@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Kauan Henrique ![avatar](https://raw.githubusercontent.com/kauan-carreiro/kauan-carreiro/main/perfil.png)
+# Olá 👋, eu sou Kauan Henrique
 
 
 🎓 Graduando em Sistemas de Informação
