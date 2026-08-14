@@ -61,17 +61,8 @@
 
 * 💡 Construir projetos reais e úteis
 * 🧠 Evoluir minhas habilidades em programação
-* 📈 Crescer no mundo dos investimentos
 
 ---
 
-## ⚡ Filosofia
-
-> *"Todo especialista já foi iniciante. O importante é continuar evoluindo todos os dias."*
-
----
-
-⭐ Em constante evolução
-🤝 Aberto a aprender, colaborar e criar projetos incríveis
 ⭐ Em constante evolução
 🤝 Aberto a aprender, colaborar e criar projetos incríveis
